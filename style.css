@@ -1,1 +1,8 @@
-*{background-color: black;color: white;}
+:root{
+    --corpreto: black;
+    --corseila: #ca7474;
+}
+
+*{background-color: var(--corpreto);
+    color: var(--corseila);
+}
