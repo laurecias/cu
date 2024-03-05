@@ -8,8 +8,8 @@ while(nomeUsuario == ""){
     nomeUsuario = prompt('como você está?')
 };
 
-i(nomeUsuario ==null){
-    anterior.textContent = 'usuário'
+if(nomeUsuario ==null){
+  anterior.textContent = 'usuário'
 } else{
-    anterior.textContent = nomeUsuario
+    anterior.textContent = nomeUsuario;
 }
