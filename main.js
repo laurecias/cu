@@ -1,5 +1,5 @@
 alert('salve');
 let gustavo = prompt("como você está?");
-let texto = document.querySelector('#sexo');
+let anterior = document.querySelector('#sexo');
 
-texto.textcontent = nomeUsuario;
+anterior.textcontent = gustavo;
