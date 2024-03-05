@@ -4,6 +4,6 @@ let anterior = document.querySelector('#sexo');
 
 anterior.textContent = nomeUsuario; 
 
-while(nomeUsuario == ""){
+while(nomeUsuario == "" || nomeUsuario == null){
     nomeUsuario = prompt('como você está?')
 }
