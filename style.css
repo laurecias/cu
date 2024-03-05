@@ -17,4 +17,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-}
+
+ 
+} 
+
+#sexo{
+    color: #ca7474;
+}    
