@@ -1,6 +1,6 @@
 :root{
     --corpreto: black;
-    --corseila: #ca7474;
+    --corseila: #f8f8f8;
 }
 
 *{background-color: var(--corpreto);
