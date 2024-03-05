@@ -1,2 +1,3 @@
 alert('salve');
-prompt("como você está?")
+let gustavo = prompt("como você está?");
+let texto = document.querySelector('sexo');
