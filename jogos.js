@@ -6,7 +6,7 @@ while(chute == ""){
   chute = prompt('Escolha um número de 0 a 10');
 }
 
-if(numeroSecreto == chute || chute == numeroSecreto {
+if(numeroSecreto == chute) {
     alert('acertaste little');
     console.log('acertaste little');
 }
