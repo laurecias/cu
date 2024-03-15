@@ -6,5 +6,5 @@ if(numeroSecreto == chute) {
 }
    else{
     alert('ERROUUU!!!');
-    conseole.log('erraste manito');
+    console.log('erraste manito');
    }
