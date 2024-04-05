@@ -1,5 +1,5 @@
 :root{
-    --corpreto: rgb(97, 94, 94);
+    --corpreto: rgb(0, 0, 0);
     --corseila: #f8f8f8;
 }
 
@@ -8,6 +8,9 @@
     font-family: Arial, Helvetica, sans-serif;
 } */
 
+body{
+ background-color: var(--corpreto);
+}
 .imagemfr {
     width: 300px;
     height: 300px;
