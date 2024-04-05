@@ -1,7 +1,7 @@
 const paulo = document.querySelectorAll('.botaos');
 
 
-for (let x = 0; x<botaos.lenght; x++){
+for (let x = 0; x<botaos.length; x++){
     console.log(x);
 
 }
