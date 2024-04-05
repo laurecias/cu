@@ -3,10 +3,10 @@
     --corseila: #f8f8f8;
 }
 
-*{background-color: var(--corpreto);
+/* {background-color: var(--corpreto);
     color: var(--corseila);
     font-family: Arial, Helvetica, sans-serif;
-}
+} */
 
 .imagemfr {
     width: 300px;
