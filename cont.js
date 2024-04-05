@@ -6,4 +6,5 @@ for (let x = 0; x<paulo.length; x++){
     botoes[x].onclick = function() {
 
      botoes[x].classList.add('ativo');
+    }
 }
