@@ -1,1 +1,1 @@
-const paulo = document.querySelectorAll('.botaos'):
+const paulo = document.querySelectorAll('.botaos');
