@@ -11,6 +11,6 @@ for (let x = 0; x<paulo.length; x++){
     
     }
      paulo[x].classList.add('ativo');
-     textos[y].classList.add('ativa');
+     textos[x].classList.add('ativa');
     }
 }
