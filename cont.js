@@ -1,4 +1,5 @@
 const paulo = document.querySelectorAll('.botaos');
+const textos = document.querySelectorAll('.aba-conteudo');
 
 
 for (let x = 0; x<paulo.length; x++){
@@ -6,12 +7,10 @@ for (let x = 0; x<paulo.length; x++){
     paulo[x].onclick = function() {
     for(let y = 0; y<paulo.length; y++){
      paulo[y].classList.remove('ativo');
+     textos[y].classList.remove('ativa');
     
     }
-    paulo[x].classList.add
-
-
-
      paulo[x].classList.add('ativo');
+     textos[y].classList.add('ativa');
     }
 }
