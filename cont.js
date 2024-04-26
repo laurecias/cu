@@ -20,7 +20,10 @@ let tempoAtual = new Date ();
 let tempoObjetivo1 = new Date ('2024-04-28T00:00:00');
 let tempoObjetivo2 = new Date ('2028-04-28T00:00:00');
 let tempoObjetivo3 = new Date ('2029-04-28T00:00:00');
-let tempoObjetivo4 = new Date 
+let tempoObjetivo4 = new Date ('2090-04-28T00:00:00');
+
+
+let tempos = [tempoObjetivo1, tempoObjetivo2, tempoObjetivo3, tempoObjetivo4];
 
 let tempoFinal = tempoObjetivo1 - tempoAtual;
 
